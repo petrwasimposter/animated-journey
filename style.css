@@ -1,0 +1,27 @@
+body{
+  font-family: sans-serif;
+}
+p a{
+ font-size: 14px;
+ color: #C7651E;
+  text-decoration: none;
+}
+h1{
+  text-align: center;
+}
+h2{
+  text-align: center;
+}
+p h2{
+  font-size: 24px;
+}
+footer{
+  border-top: 5px solid #06550E;
+}
+footer p{
+  text-align: center;
+}
+footer img{
+width: 99px;
+height: 65px;
+}
